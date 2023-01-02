@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two Activities project</string>
+    <string name="button_main">button main</string>
+    <string name="message_recevied">Message Recevied</string>
+    <string name="enter_your_massage_here">Enter Your Massage Here</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Replay Here</string>
+    <string name="text_header_reply">Replay Received</string>
+</resources>

@@ -1,0 +1,4 @@
+#Mon Jan 02 16:33:04 SGT 2023
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\MaterialMe-Resource\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
